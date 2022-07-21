@@ -1,0 +1,23 @@
+header{
+    /* background-color: burlywood; */
+    padding: 0;
+    border-bottom: 0.5px solid black;
+}
+a{
+    color: black;
+}
+a:hover{
+    background-color: black;
+    color:white;
+    
+}
+.container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1%;
+    
+}
+a{
+    text-decoration: none;
+ }
