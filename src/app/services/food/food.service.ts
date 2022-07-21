@@ -94,6 +94,18 @@ export class FoodService {
             tags:['rice','lunch','dinner',]
             },
             {
+              id:9,
+              name: 'Fish',
+              price:3000,
+              favorite:false,
+              star:4.5,
+              imageUrl:'/assets/food-9.jpg',
+              cookTime: '25-30',
+              origin:['Kenya'],
+              tags:['Dinner','Fish','lunch']
+              },
+        
+            {
               id:3,
               name: 'Pizza',
               price:3000,

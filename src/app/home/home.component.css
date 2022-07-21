@@ -15,7 +15,7 @@ ul li a{
     display:flex;
     flex-direction: column;
     overflow: hidden;
-    color: #e72929;
+    color: black;
 
 }
 li a:hover{
