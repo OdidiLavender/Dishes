@@ -7,6 +7,19 @@
                 {{food.name}}
             </div>
             <span class="favorite {{food.favorite?'':'not'}}">❤️</span>
+            <div class="product-item-footer">
+                <div class="origin">
+                    <span *ngFor="let origin of food.origin"> 
+                        {{origin}}
+
+                    </span>
+                </div>
+                <div class="cook-time">
+                    <span>🕑</span>
+                    {{food.cookTime}}
+                </div>
+            </div>
+
             
         </div>
         </a>
