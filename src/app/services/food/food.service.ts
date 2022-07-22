@@ -16,7 +16,7 @@ export class FoodService {
      {
     id:1,
     name: 'Burger',
-    price:3000,
+    price:800,
     favorite:false,
     star:2.5,
     imageUrl:'/assets/food-1.jpg',
@@ -29,7 +29,7 @@ export class FoodService {
      {
       id:2,
       name: 'Pizza',
-      price:3000,
+      price:1200,
       favorite:false,
       star:4.5,
       imageUrl:'/assets/food-2.jpg',
@@ -41,7 +41,7 @@ export class FoodService {
        {
         id:8,
         name: 'Rice',
-        price:3000,
+        price:600,
         favorite:false,
         star:4.5,
         imageUrl:'/assets/food-8.jpg',
@@ -52,7 +52,7 @@ export class FoodService {
          {
           id:4,
           name: 'Pasta',
-          price:3000,
+          price:800,
           favorite:false,
           star:3.5,
           imageUrl:'/assets/food-4.jpg',
@@ -63,7 +63,7 @@ export class FoodService {
            {
             id:5,
             name: 'Fries',
-            price:3000,
+            price:500,
             favorite:false,
             star:4.5,
             imageUrl:'/assets/food-5.jpg',
@@ -85,7 +85,7 @@ export class FoodService {
            {
             id:7,
             name: 'Rice',
-            price:3000,
+            price:2000,
             favorite:false,
             star:4.5,
             imageUrl:'/assets/food-7.jpg',
@@ -96,7 +96,7 @@ export class FoodService {
             {
               id:9,
               name: 'Fish',
-              price:3000,
+              price:3500,
               favorite:false,
               star:4.5,
               imageUrl:'/assets/food-9.jpg',
@@ -108,7 +108,7 @@ export class FoodService {
             {
               id:3,
               name: 'Pizza',
-              price:3000,
+              price:1200,
               favorite:false,
               star:4.0,
               imageUrl:'/assets/food-3.jpg',
